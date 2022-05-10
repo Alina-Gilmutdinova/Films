@@ -11,8 +11,6 @@ count — рейтинг фильтам, число, по умолчанию 0.
 Звезды рейтинга должны быть представлены тегом <ul> с классом card-body-stars. Для отображения символа звезды внутри тега <li> используйте компонент Star.
 Необходимо реализовать компонет Stars (не забудьте, что отдельная звезда должна быть представлена компонентом Star).
 
-Важно: вам нужно реализовать только отображение звездочек (карточку фильма не нужно).
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -79,3 +77,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Бейдж
+[![Build status](https://ci.appveyor.com/api/projects/status/v5cb9ng1d4cdtrwc/branch/master?svg=true)](https://ci.appveyor.com/project/Alina-Gilmutdinova/films/branch/master)
